@@ -1,0 +1,17 @@
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\bin\Debug\Adochitei_Alexandru_3131A.exe.config
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\bin\Debug\Adochitei_Alexandru_3131A.exe
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\bin\Debug\Adochitei_Alexandru_3131A.pdb
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\bin\Debug\OpenTK.dll
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\bin\Debug\OpenTK.GLControl.dll
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\bin\Debug\OpenTK.pdb
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\bin\Debug\OpenTK.xml
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\bin\Debug\OpenTK.GLControl.pdb
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\bin\Debug\OpenTK.GLControl.xml
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\obj\Debug\Adochitei_Alexandru_3131A.csproj.AssemblyReference.cache
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\obj\Debug\Adochitei_Alexandru_3131A.Form1.resources
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\obj\Debug\Adochitei_Alexandru_3131A.Properties.Resources.resources
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\obj\Debug\Adochitei_Alexandru_3131A.csproj.GenerateResource.cache
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\obj\Debug\Adochitei_Alexandru_3131A.csproj.CoreCompileInputs.cache
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\obj\Debug\Adochitei_Alexandru_3131A.csproj.CopyComplete
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\obj\Debug\Adochitei_Alexandru_3131A.exe
+E:\Scoala\An 3\S1\EGC\Adochitei_Alexandru_3131A\obj\Debug\Adochitei_Alexandru_3131A.pdb
